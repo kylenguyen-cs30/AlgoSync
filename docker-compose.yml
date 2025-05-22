@@ -1,0 +1,15 @@
+services:
+  AI-service:
+    build: ./Services/AI-service/
+    ports:
+      - "5001:5000"
+    networks:
+      - algosync-network
+
+  # auth-service:
+  # blog-service:
+  # user-service:
+
+networks:
+  algosync-network:
+    driver: bridge
