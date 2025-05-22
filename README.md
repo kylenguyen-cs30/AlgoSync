@@ -1,7 +1,6 @@
-# Project Algo Sync
+# AlgoSync
 
-## Team members:
-
-- Hao Ly (Founder)
+# Contributors:
+- Hao Ly 
 - Hoang Nguyen
 - Raul Jarquin Valdez
